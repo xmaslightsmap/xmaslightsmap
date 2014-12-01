@@ -1,0 +1,2229 @@
+{
+    "features": [
+        {
+            "id": "Summerland Drive, Auckland",
+            "properties": {
+                "Address": "Summerland Drive, Auckland",
+                "geo_longitude": 174.6117434,
+                "geo_latitude": -36.8775125
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6117434,
+                    -36.8775125
+                ]
+            }
+        },
+        {
+            "id": "31 Roberts Avenue, Bayswater, Auckland",
+            "properties": {
+                "Address": "31 Roberts Avenue, Bayswater, Auckland",
+                "geo_longitude": 174.787143,
+                "geo_latitude": -36.8116037
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.787143,
+                    -36.8116037
+                ]
+            }
+        },
+        {
+            "id": "6 Eugen Place, Bayview, Auckland",
+            "properties": {
+                "Address": "6 Eugen Place, Bayview, Auckland",
+                "geo_longitude": 174.706289,
+                "geo_latitude": -36.7745304
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.706289,
+                    -36.7745304
+                ]
+            }
+        },
+        {
+            "id": "20 Lauderdale Road, Birkdale, Auckland",
+            "properties": {
+                "Address": "20 Lauderdale Road, Birkdale, Auckland",
+                "geo_longitude": 174.7057932,
+                "geo_latitude": -36.7921266
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7057932,
+                    -36.7921266
+                ]
+            }
+        },
+        {
+            "id": "3 Tiri Tiri Road, Birkdale, Auckland",
+            "properties": {
+                "Address": "3 Tiri Tiri Road, Birkdale, Auckland",
+                "geo_longitude": 174.7000339,
+                "geo_latitude": -36.7972143
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7000339,
+                    -36.7972143
+                ]
+            }
+        },
+        {
+            "id": "17 Pitfire Place, Blockhouse Bay, Auckland",
+            "properties": {
+                "Address": "17 Pitfire Place, Blockhouse Bay, Auckland",
+                "geo_longitude": 174.6986389,
+                "geo_latitude": -36.9118939
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6986389,
+                    -36.9118939
+                ]
+            }
+        },
+        {
+            "id": "102 Chelsea View Drive, Chatswood, Auckland",
+            "properties": {
+                "Address": "102 Chelsea View Drive, Chatswood, Auckland",
+                "geo_longitude": 174.7097834,
+                "geo_latitude": -36.8159336
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7097834,
+                    -36.8159336
+                ]
+            }
+        },
+        {
+            "id": "2/2 Monde Place, Clover Park, Auckland",
+            "properties": {
+                "Address": "2/2 Monde Place, Clover Park, Auckland",
+                "geo_longitude": 174.8921097,
+                "geo_latitude": -36.9901299
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8921097,
+                    -36.9901299
+                ]
+            }
+        },
+        {
+            "id": "51 Kamara Road, Glen Eden, Auckland",
+            "properties": {
+                "Address": "51 Kamara Road, Glen Eden, Auckland",
+                "geo_longitude": 174.6379865,
+                "geo_latitude": -36.9132744
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6379865,
+                    -36.9132744
+                ]
+            }
+        },
+        {
+            "id": "41 Rua Road, Glen Eden, Auckland",
+            "properties": {
+                "Address": "41 Rua Road, Glen Eden, Auckland",
+                "geo_longitude": 174.6642911,
+                "geo_latitude": -36.9133283
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6642911,
+                    -36.9133283
+                ]
+            }
+        },
+        {
+            "id": "16 Madigan Place, Glendene, Auckland",
+            "properties": {
+                "Address": "16 Madigan Place, Glendene, Auckland",
+                "geo_longitude": 174.6561014,
+                "geo_latitude": -36.8941018
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6561014,
+                    -36.8941018
+                ]
+            }
+        },
+        {
+            "id": "5 Archer Rayner Place, Greenhithe, Auckland",
+            "properties": {
+                "Address": "5 Archer Rayner Place, Greenhithe, Auckland",
+                "geo_longitude": 174.6818152,
+                "geo_latitude": -36.7728675
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6818152,
+                    -36.7728675
+                ]
+            }
+        },
+        {
+            "id": "7 Archer Rayner Place, Greenhithe, Auckland",
+            "properties": {
+                "Address": "7 Archer Rayner Place, Greenhithe, Auckland",
+                "geo_longitude": 174.682072,
+                "geo_latitude": -36.7728871
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.682072,
+                    -36.7728871
+                ]
+            }
+        },
+        {
+            "id": "188 Upper Harbour Drive, Greenhithe, Auckland",
+            "properties": {
+                "Address": "188 Upper Harbour Drive, Greenhithe, Auckland",
+                "geo_longitude": 174.6927454,
+                "geo_latitude": -36.7735794
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6927454,
+                    -36.7735794
+                ]
+            }
+        },
+        {
+            "id": "47 Newington Road, Henderson, Auckland",
+            "properties": {
+                "Address": "47 Newington Road, Henderson, Auckland",
+                "geo_longitude": 174.6350271,
+                "geo_latitude": -36.8853485
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6350271,
+                    -36.8853485
+                ]
+            }
+        },
+        {
+            "id": "Lester Street, Hobsonville, Auckland",
+            "properties": {
+                "Address": "Lester Street, Hobsonville, Auckland",
+                "geo_longitude": 174.6571227,
+                "geo_latitude": -36.7914338
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6571227,
+                    -36.7914338
+                ]
+            }
+        },
+        {
+            "id": "3 James Tyler Crescent, Lynfield, Auckland",
+            "properties": {
+                "Address": "3 James Tyler Crescent, Lynfield, Auckland",
+                "geo_longitude": 174.7295207,
+                "geo_latitude": -36.9301551
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7295207,
+                    -36.9301551
+                ]
+            }
+        },
+        {
+            "id": "Honeysuckle Lane, Mairangi Bay, Auckland",
+            "properties": {
+                "Address": "Honeysuckle Lane, Mairangi Bay, Auckland",
+                "geo_longitude": 174.7426837,
+                "geo_latitude": -36.7363672
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7426837,
+                    -36.7363672
+                ]
+            }
+        },
+        {
+            "id": "3 Rothery Road, Manurewa, Auckland",
+            "properties": {
+                "Address": "3 Rothery Road, Manurewa, Auckland",
+                "geo_longitude": 174.8944051,
+                "geo_latitude": -37.008772
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8944051,
+                    -37.008772
+                ]
+            }
+        },
+        {
+            "id": "34 Colwill Road, Massey, Auckland",
+            "properties": {
+                "Address": "34 Colwill Road, Massey, Auckland",
+                "geo_longitude": 174.6260959,
+                "geo_latitude": -36.8364252
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6260959,
+                    -36.8364252
+                ]
+            }
+        },
+        {
+            "id": "13 Lori Place, Massey, Auckland",
+            "properties": {
+                "Address": "13 Lori Place, Massey, Auckland",
+                "geo_longitude": 174.6095178,
+                "geo_latitude": -36.8383667
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6095178,
+                    -36.8383667
+                ]
+            }
+        },
+        {
+            "id": "17 Meridian Court, Oteha, Auckland",
+            "properties": {
+                "Address": "17 Meridian Court, Oteha, Auckland",
+                "geo_longitude": 174.7152069,
+                "geo_latitude": -36.71730549999999
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7152069,
+                    -36.71730549999999
+                ]
+            }
+        },
+        {
+            "id": "58 Miller Street, Point Chevalier, Auckland",
+            "properties": {
+                "Address": "58 Miller Street, Point Chevalier, Auckland",
+                "geo_longitude": 174.703955,
+                "geo_latitude": -36.8698419
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.703955,
+                    -36.8698419
+                ]
+            }
+        },
+        {
+            "id": "19 Blue Gum Rise, Sunnyhills, Auckland",
+            "properties": {
+                "Address": "19 Blue Gum Rise, Sunnyhills, Auckland",
+                "geo_longitude": 174.8834665,
+                "geo_latitude": -36.9058636
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8834665,
+                    -36.9058636
+                ]
+            }
+        },
+        {
+            "id": "448 Old Te Atatu Road, Te Atatu Peninsula, Auckland",
+            "properties": {
+                "Address": "448 Old Te Atatu Road, Te Atatu Peninsula, Auckland",
+                "geo_longitude": 174.6496571,
+                "geo_latitude": -36.8497265
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6496571,
+                    -36.8497265
+                ]
+            }
+        },
+        {
+            "id": "Talavera Place, Te Atatu South, Auckland",
+            "properties": {
+                "Address": "Talavera Place, Te Atatu South, Auckland",
+                "geo_longitude": 174.6549362,
+                "geo_latitude": -36.8802814
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6549362,
+                    -36.8802814
+                ]
+            }
+        },
+        {
+            "id": "18 Anglers Way, Wattle Downs, Auckland",
+            "properties": {
+                "Address": "18 Anglers Way, Wattle Downs, Auckland",
+                "geo_longitude": 174.8825805,
+                "geo_latitude": -37.0382162
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8825805,
+                    -37.0382162
+                ]
+            }
+        },
+        {
+            "id": "15 Lagoon Way, West Harbour, Auckland",
+            "properties": {
+                "Address": "15 Lagoon Way, West Harbour, Auckland",
+                "geo_longitude": 174.635546,
+                "geo_latitude": -36.8146261
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.635546,
+                    -36.8146261
+                ]
+            }
+        },
+        {
+            "id": "17 Westpark Drive, West Harbour, Auckland",
+            "properties": {
+                "Address": "17 Westpark Drive, West Harbour, Auckland",
+                "geo_longitude": 174.6349338,
+                "geo_latitude": -36.8136946
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6349338,
+                    -36.8136946
+                ]
+            }
+        },
+        {
+            "id": "132 Top Road, Dairy Flat",
+            "properties": {
+                "Address": "132 Top Road, Dairy Flat",
+                "geo_longitude": 174.6671596,
+                "geo_latitude": -36.6627306
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.6671596,
+                    -36.6627306
+                ]
+            }
+        },
+        {
+            "id": "20 Cornwall Place, Karaka",
+            "properties": {
+                "Address": "20 Cornwall Place, Karaka",
+                "geo_longitude": 174.9240519,
+                "geo_latitude": -37.0796533
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9240519,
+                    -37.0796533
+                ]
+            }
+        },
+        {
+            "id": "17 Wawatai Drive, Karaka",
+            "properties": {
+                "Address": "17 Wawatai Drive, Karaka",
+                "geo_longitude": 174.9245796,
+                "geo_latitude": -37.0800118
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9245796,
+                    -37.0800118
+                ]
+            }
+        },
+        {
+            "id": "25 Prospect Terrace, Pukekohe",
+            "properties": {
+                "Address": "25 Prospect Terrace, Pukekohe",
+                "geo_longitude": 174.9104913,
+                "geo_latitude": -37.1964692
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9104913,
+                    -37.1964692
+                ]
+            }
+        },
+        {
+            "id": "105 George Street, Tuakau",
+            "properties": {
+                "Address": "105 George Street, Tuakau",
+                "geo_longitude": 174.9445115,
+                "geo_latitude": -37.2639268
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9445115,
+                    -37.2639268
+                ]
+            }
+        },
+        {
+            "id": "805 Great North Road, Western Springs",
+            "properties": {
+                "Address": "805 Great North Road, Western Springs",
+                "geo_longitude": 174.7276108,
+                "geo_latitude": -36.8672775
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7276108,
+                    -36.8672775
+                ]
+            }
+        },
+        {
+            "id": "103 Hampshire Street, Aranui, Christchurch",
+            "properties": {
+                "Address": "103 Hampshire Street, Aranui, Christchurch",
+                "geo_longitude": 172.7039347,
+                "geo_latitude": -43.5091074
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7039347,
+                    -43.5091074
+                ]
+            }
+        },
+        {
+            "id": "433 Avonhead Road, Avonhead, Christchurch",
+            "properties": {
+                "Address": "433 Avonhead Road, Avonhead, Christchurch",
+                "geo_longitude": 172.5577691,
+                "geo_latitude": -43.5024264
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5577691,
+                    -43.5024264
+                ]
+            }
+        },
+        {
+            "id": "452 Avonhead Road, Avonhead, Christchurch",
+            "properties": {
+                "Address": "452 Avonhead Road, Avonhead, Christchurch",
+                "geo_longitude": 172.5570794,
+                "geo_latitude": -43.5014704
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5570794,
+                    -43.5014704
+                ]
+            }
+        },
+        {
+            "id": "58 Westgrove Avenue, Avonhead, Christchurch",
+            "properties": {
+                "Address": "58 Westgrove Avenue, Avonhead, Christchurch",
+                "geo_longitude": 172.555035,
+                "geo_latitude": -43.5060066
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.555035,
+                    -43.5060066
+                ]
+            }
+        },
+        {
+            "id": "3 Castile Place, Belfast, Christchurch",
+            "properties": {
+                "Address": "3 Castile Place, Belfast, Christchurch",
+                "geo_longitude": 172.6310816,
+                "geo_latitude": -43.4502193
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6310816,
+                    -43.4502193
+                ]
+            }
+        },
+        {
+            "id": "2 Tralee Place, Bishopdale, Christchurch",
+            "properties": {
+                "Address": "2 Tralee Place, Bishopdale, Christchurch",
+                "geo_longitude": 172.5941262,
+                "geo_latitude": -43.4846296
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5941262,
+                    -43.4846296
+                ]
+            }
+        },
+        {
+            "id": "41 Gregan Crescent, Burnside, Christchurch",
+            "properties": {
+                "Address": "41 Gregan Crescent, Burnside, Christchurch",
+                "geo_longitude": 172.5781296,
+                "geo_latitude": -43.4976226
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5781296,
+                    -43.4976226
+                ]
+            }
+        },
+        {
+            "id": "1 Todd Avenue, Burnside, Christchurch",
+            "properties": {
+                "Address": "1 Todd Avenue, Burnside, Christchurch",
+                "geo_longitude": 172.5719585,
+                "geo_latitude": -43.4910708
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5719585,
+                    -43.4910708
+                ]
+            }
+        },
+        {
+            "id": "46 Cresswell Avenue, Burwood, Christchurch",
+            "properties": {
+                "Address": "46 Cresswell Avenue, Burwood, Christchurch",
+                "geo_longitude": 172.6716011,
+                "geo_latitude": -43.50788259999999
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6716011,
+                    -43.50788259999999
+                ]
+            }
+        },
+        {
+            "id": "10 Glastonbury Drive, Burwood, Christchurch",
+            "properties": {
+                "Address": "10 Glastonbury Drive, Burwood, Christchurch",
+                "geo_longitude": 172.6893853,
+                "geo_latitude": -43.4912254
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6893853,
+                    -43.4912254
+                ]
+            }
+        },
+        {
+            "id": "49 Landsdowne Terrace, Cashmere, Christchurch",
+            "properties": {
+                "Address": "49 Landsdowne Terrace, Cashmere, Christchurch",
+                "geo_longitude": 172.6416203,
+                "geo_latitude": -43.5732764
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6416203,
+                    -43.5732764
+                ]
+            }
+        },
+        {
+            "id": "18 Cassinia Gardens, Halswell, Christchurch",
+            "properties": {
+                "Address": "18 Cassinia Gardens, Halswell, Christchurch",
+                "geo_longitude": 172.5604332,
+                "geo_latitude": -43.56670130000001
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5604332,
+                    -43.56670130000001
+                ]
+            }
+        },
+        {
+            "id": "51 Eaglesome Avenue, Halswell, Christchurch",
+            "properties": {
+                "Address": "51 Eaglesome Avenue, Halswell, Christchurch",
+                "geo_longitude": 172.5650773,
+                "geo_latitude": -43.5692915
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5650773,
+                    -43.5692915
+                ]
+            }
+        },
+        {
+            "id": "24 Kinsella Crescent, Halswell, Christchurch",
+            "properties": {
+                "Address": "24 Kinsella Crescent, Halswell, Christchurch",
+                "geo_longitude": 172.5709944,
+                "geo_latitude": -43.565845
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5709944,
+                    -43.565845
+                ]
+            }
+        },
+        {
+            "id": "2 Riverton Terrace, Halswell, Christchurch",
+            "properties": {
+                "Address": "2 Riverton Terrace, Halswell, Christchurch",
+                "geo_longitude": 172.5559993,
+                "geo_latitude": -43.56775589999999
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5559993,
+                    -43.56775589999999
+                ]
+            }
+        },
+        {
+            "id": "174A Port Hills Road, Heathcote Valley, Christchurch",
+            "properties": {
+                "Address": "174A Port Hills Road, Heathcote Valley, Christchurch",
+                "geo_longitude": 172.6953451,
+                "geo_latitude": -43.5723561
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6953451,
+                    -43.5723561
+                ]
+            }
+        },
+        {
+            "id": "93 Kaniere Avenue, Hei Hei, Christchurch",
+            "properties": {
+                "Address": "93 Kaniere Avenue, Hei Hei, Christchurch",
+                "geo_longitude": 172.5200876,
+                "geo_latitude": -43.5304549
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5200876,
+                    -43.5304549
+                ]
+            }
+        },
+        {
+            "id": "5 Wolsey Place, Hillmorton, Christchurch",
+            "properties": {
+                "Address": "5 Wolsey Place, Hillmorton, Christchurch",
+                "geo_longitude": 172.5810554,
+                "geo_latitude": -43.5609152
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5810554,
+                    -43.5609152
+                ]
+            }
+        },
+        {
+            "id": "190 Hoon Hay Road, Hoon Hay, Christchurch",
+            "properties": {
+                "Address": "190 Hoon Hay Road, Hoon Hay, Christchurch",
+                "geo_longitude": 172.6092041,
+                "geo_latitude": -43.5656241
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6092041,
+                    -43.5656241
+                ]
+            }
+        },
+        {
+            "id": "40 Boston Avenue, Hornby, Christchurch",
+            "properties": {
+                "Address": "40 Boston Avenue, Hornby, Christchurch",
+                "geo_longitude": 172.52649,
+                "geo_latitude": -43.5532891
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.52649,
+                    -43.5532891
+                ]
+            }
+        },
+        {
+            "id": "54 Boston Avenue, Hornby, Christchurch",
+            "properties": {
+                "Address": "54 Boston Avenue, Hornby, Christchurch",
+                "geo_longitude": 172.525854,
+                "geo_latitude": -43.5524205
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.525854,
+                    -43.5524205
+                ]
+            }
+        },
+        {
+            "id": "38 Brynley Street, Hornby, Christchurch",
+            "properties": {
+                "Address": "38 Brynley Street, Hornby, Christchurch",
+                "geo_longitude": 172.5301044,
+                "geo_latitude": -43.5461045
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5301044,
+                    -43.5461045
+                ]
+            }
+        },
+        {
+            "id": "25 Denise Crescent, Hornby, Christchurch",
+            "properties": {
+                "Address": "25 Denise Crescent, Hornby, Christchurch",
+                "geo_longitude": 172.5162263,
+                "geo_latitude": -43.5480534
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5162263,
+                    -43.5480534
+                ]
+            }
+        },
+        {
+            "id": "14 Dunstan Crescent, Hornby, Christchurch",
+            "properties": {
+                "Address": "14 Dunstan Crescent, Hornby, Christchurch",
+                "geo_longitude": 172.5273025,
+                "geo_latitude": -43.5502712
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5273025,
+                    -43.5502712
+                ]
+            }
+        },
+        {
+            "id": "22 Steele Street, Hornby, Christchurch",
+            "properties": {
+                "Address": "22 Steele Street, Hornby, Christchurch",
+                "geo_longitude": 172.5128611,
+                "geo_latitude": -43.5424573
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5128611,
+                    -43.5424573
+                ]
+            }
+        },
+        {
+            "id": "11 Tie Place, Hornby, Christchurch",
+            "properties": {
+                "Address": "11 Tie Place, Hornby, Christchurch",
+                "geo_longitude": 172.5387082,
+                "geo_latitude": -43.5517666
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5387082,
+                    -43.5517666
+                ]
+            }
+        },
+        {
+            "id": "8 Woodlau Rise, Huntsbury, Christchurch",
+            "properties": {
+                "Address": "8 Woodlau Rise, Huntsbury, Christchurch",
+                "geo_longitude": 172.6485668,
+                "geo_latitude": -43.56765410000001
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6485668,
+                    -43.56765410000001
+                ]
+            }
+        },
+        {
+            "id": "26 Longmuir Street, Ilam, Christchurch",
+            "properties": {
+                "Address": "26 Longmuir Street, Ilam, Christchurch",
+                "geo_longitude": 172.5666663,
+                "geo_latitude": -43.5139504
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5666663,
+                    -43.5139504
+                ]
+            }
+        },
+        {
+            "id": "33 Mortlake Street, Islington, Christchurch",
+            "properties": {
+                "Address": "33 Mortlake Street, Islington, Christchurch",
+                "geo_longitude": 172.5063301,
+                "geo_latitude": -43.5383673
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5063301,
+                    -43.5383673
+                ]
+            }
+        },
+        {
+            "id": "46 Butterfield Avenue, Linwood, Christchurch",
+            "properties": {
+                "Address": "46 Butterfield Avenue, Linwood, Christchurch",
+                "geo_longitude": 172.681818,
+                "geo_latitude": -43.5308781
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.681818,
+                    -43.5308781
+                ]
+            }
+        },
+        {
+            "id": "380 Innes Road, Mairehau, Christchurch",
+            "properties": {
+                "Address": "380 Innes Road, Mairehau, Christchurch",
+                "geo_longitude": 172.6394919,
+                "geo_latitude": -43.4992876
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6394919,
+                    -43.4992876
+                ]
+            }
+        },
+        {
+            "id": "408 Prestons Road, Marshland, Christchurch",
+            "properties": {
+                "Address": "408 Prestons Road, Marshland, Christchurch",
+                "geo_longitude": 172.6655981,
+                "geo_latitude": -43.4740428
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6655981,
+                    -43.4740428
+                ]
+            }
+        },
+        {
+            "id": "37 Tedder Avenue, North New Brighton, Christchurch",
+            "properties": {
+                "Address": "37 Tedder Avenue, North New Brighton, Christchurch",
+                "geo_longitude": 172.7209487,
+                "geo_latitude": -43.4910863
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7209487,
+                    -43.4910863
+                ]
+            }
+        },
+        {
+            "id": "40 Millstream Drive, Northwood, Christchurch",
+            "properties": {
+                "Address": "40 Millstream Drive, Northwood, Christchurch",
+                "geo_longitude": 172.6071332,
+                "geo_latitude": -43.4551041
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6071332,
+                    -43.4551041
+                ]
+            }
+        },
+        {
+            "id": "18 Talbot Road, Northwood, Christchurch",
+            "properties": {
+                "Address": "18 Talbot Road, Northwood, Christchurch",
+                "geo_longitude": 172.6127832,
+                "geo_latitude": -43.4594985
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6127832,
+                    -43.4594985
+                ]
+            }
+        },
+        {
+            "id": "33 Donnington Street, Parklands, Christchurch",
+            "properties": {
+                "Address": "33 Donnington Street, Parklands, Christchurch",
+                "geo_longitude": 172.7044503,
+                "geo_latitude": -43.4840257
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7044503,
+                    -43.4840257
+                ]
+            }
+        },
+        {
+            "id": "35 Donnington Street, Parklands, Christchurch",
+            "properties": {
+                "Address": "35 Donnington Street, Parklands, Christchurch",
+                "geo_longitude": 172.7044509,
+                "geo_latitude": -43.483891
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7044509,
+                    -43.483891
+                ]
+            }
+        },
+        {
+            "id": "52 Donnington Street, Parklands, Christchurch",
+            "properties": {
+                "Address": "52 Donnington Street, Parklands, Christchurch",
+                "geo_longitude": 172.705487,
+                "geo_latitude": -43.4833877
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.705487,
+                    -43.4833877
+                ]
+            }
+        },
+        {
+            "id": "53 Donnington Street, Parklands, Christchurch",
+            "properties": {
+                "Address": "53 Donnington Street, Parklands, Christchurch",
+                "geo_longitude": 172.7055291,
+                "geo_latitude": -43.4831548
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7055291,
+                    -43.4831548
+                ]
+            }
+        },
+        {
+            "id": "54 Donnington Street, Parklands, Christchurch",
+            "properties": {
+                "Address": "54 Donnington Street, Parklands, Christchurch",
+                "geo_longitude": 172.7057151,
+                "geo_latitude": -43.4833838
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7057151,
+                    -43.4833838
+                ]
+            }
+        },
+        {
+            "id": "448 Mairehau Road, Parklands, Christchurch",
+            "properties": {
+                "Address": "448 Mairehau Road, Parklands, Christchurch",
+                "geo_longitude": 172.6991392,
+                "geo_latitude": -43.4826568
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6991392,
+                    -43.4826568
+                ]
+            }
+        },
+        {
+            "id": "450 Mairehau Road, Parklands, Christchurch",
+            "properties": {
+                "Address": "450 Mairehau Road, Parklands, Christchurch",
+                "geo_longitude": 172.701114,
+                "geo_latitude": -43.483039
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.701114,
+                    -43.483039
+                ]
+            }
+        },
+        {
+            "id": "24 Royal Park Drive, Parklands, Christchurch",
+            "properties": {
+                "Address": "24 Royal Park Drive, Parklands, Christchurch",
+                "geo_longitude": 172.6947932,
+                "geo_latitude": -43.4784852
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6947932,
+                    -43.4784852
+                ]
+            }
+        },
+        {
+            "id": "15 Tamarisk Place, Parklands, Christchurch",
+            "properties": {
+                "Address": "15 Tamarisk Place, Parklands, Christchurch",
+                "geo_longitude": 172.7033633,
+                "geo_latitude": -43.4801529
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7033633,
+                    -43.4801529
+                ]
+            }
+        },
+        {
+            "id": "8 Chipping Lane, Redwood, Christchurch",
+            "properties": {
+                "Address": "8 Chipping Lane, Redwood, Christchurch",
+                "geo_longitude": 172.6218042,
+                "geo_latitude": -43.4755928
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6218042,
+                    -43.4755928
+                ]
+            }
+        },
+        {
+            "id": "22 James Condon Place, Redwood, Christchurch",
+            "properties": {
+                "Address": "22 James Condon Place, Redwood, Christchurch",
+                "geo_longitude": 172.6218067,
+                "geo_latitude": -43.4748505
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6218067,
+                    -43.4748505
+                ]
+            }
+        },
+        {
+            "id": "19 Kruse Place, Redwood, Christchurch",
+            "properties": {
+                "Address": "19 Kruse Place, Redwood, Christchurch",
+                "geo_longitude": 172.6285762,
+                "geo_latitude": -43.4824294
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6285762,
+                    -43.4824294
+                ]
+            }
+        },
+        {
+            "id": "5 Tracy Place, Redwood, Christchurch",
+            "properties": {
+                "Address": "5 Tracy Place, Redwood, Christchurch",
+                "geo_longitude": 172.6187122,
+                "geo_latitude": -43.4685901
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6187122,
+                    -43.4685901
+                ]
+            }
+        },
+        {
+            "id": "2 Bennett Street, Saint Albans, Christchurch",
+            "properties": {
+                "Address": "2 Bennett Street, Saint Albans, Christchurch",
+                "geo_longitude": 172.6169953,
+                "geo_latitude": -43.504696
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6169953,
+                    -43.504696
+                ]
+            }
+        },
+        {
+            "id": "4 Bennett Street, Saint Albans, Christchurch",
+            "properties": {
+                "Address": "4 Bennett Street, Saint Albans, Christchurch",
+                "geo_longitude": 172.6168951,
+                "geo_latitude": -43.5045937
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6168951,
+                    -43.5045937
+                ]
+            }
+        },
+        {
+            "id": "71 Cornwall Street, Saint Albans, Christchurch",
+            "properties": {
+                "Address": "71 Cornwall Street, Saint Albans, Christchurch",
+                "geo_longitude": 172.6403222,
+                "geo_latitude": -43.5120523
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6403222,
+                    -43.5120523
+                ]
+            }
+        },
+        {
+            "id": "81 Mays Road, Saint Albans, Christchurch",
+            "properties": {
+                "Address": "81 Mays Road, Saint Albans, Christchurch",
+                "geo_longitude": 172.6202729,
+                "geo_latitude": -43.50291199999999
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6202729,
+                    -43.50291199999999
+                ]
+            }
+        },
+        {
+            "id": "113 Joy Street, Shirley, Christchurch",
+            "properties": {
+                "Address": "113 Joy Street, Shirley, Christchurch",
+                "geo_longitude": 172.6646585,
+                "geo_latitude": -43.4960215
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6646585,
+                    -43.4960215
+                ]
+            }
+        },
+        {
+            "id": "97 Rocking Horse Road, Southshore, Christchurch",
+            "properties": {
+                "Address": "97 Rocking Horse Road, Southshore, Christchurch",
+                "geo_longitude": 172.7461462,
+                "geo_latitude": -43.5467418
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.7461462,
+                    -43.5467418
+                ]
+            }
+        },
+        {
+            "id": "29 Strickland Street, Sydenham, Christchurch",
+            "properties": {
+                "Address": "29 Strickland Street, Sydenham, Christchurch",
+                "geo_longitude": 172.6344712,
+                "geo_latitude": -43.5557075
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6344712,
+                    -43.5557075
+                ]
+            }
+        },
+        {
+            "id": "Champagne Avenue, Yaldhurst, Christchurch",
+            "properties": {
+                "Address": "Champagne Avenue, Yaldhurst, Christchurch",
+                "geo_longitude": 172.520565,
+                "geo_latitude": -43.5252715
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.520565,
+                    -43.5252715
+                ]
+            }
+        },
+        {
+            "id": "10 Bernice Crescent, Yaldhurst, Christchurch",
+            "properties": {
+                "Address": "10 Bernice Crescent, Yaldhurst, Christchurch",
+                "geo_longitude": 172.5162051,
+                "geo_latitude": -43.5247269
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5162051,
+                    -43.5247269
+                ]
+            }
+        },
+        {
+            "id": "11 Chester Street, Kaiapoi",
+            "properties": {
+                "Address": "11 Chester Street, Kaiapoi",
+                "geo_longitude": 172.6674907,
+                "geo_latitude": -43.3702577
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6674907,
+                    -43.3702577
+                ]
+            }
+        },
+        {
+            "id": "23 Chester Street, Kaiapoi",
+            "properties": {
+                "Address": "23 Chester Street, Kaiapoi",
+                "geo_longitude": 172.6658812,
+                "geo_latitude": -43.3700137
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6658812,
+                    -43.3700137
+                ]
+            }
+        },
+        {
+            "id": "24 Chester Street, Kaiapoi",
+            "properties": {
+                "Address": "24 Chester Street, Kaiapoi",
+                "geo_longitude": 172.6661895,
+                "geo_latitude": -43.3696158
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6661895,
+                    -43.3696158
+                ]
+            }
+        },
+        {
+            "id": "20 Fergus Street, Kaiapoi",
+            "properties": {
+                "Address": "20 Fergus Street, Kaiapoi",
+                "geo_longitude": 172.668871,
+                "geo_latitude": -43.3710859
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.668871,
+                    -43.3710859
+                ]
+            }
+        },
+        {
+            "id": "1 Robert Coup Road, Kaiapoi",
+            "properties": {
+                "Address": "1 Robert Coup Road, Kaiapoi",
+                "geo_longitude": 172.6412275,
+                "geo_latitude": -43.3933825
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6412275,
+                    -43.3933825
+                ]
+            }
+        },
+        {
+            "id": "97 Robert Coup Road, Kaiapoi",
+            "properties": {
+                "Address": "97 Robert Coup Road, Kaiapoi",
+                "geo_longitude": 172.6440928,
+                "geo_latitude": -43.3871696
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6440928,
+                    -43.3871696
+                ]
+            }
+        },
+        {
+            "id": "9 Sims Road, Kaiapoi",
+            "properties": {
+                "Address": "9 Sims Road, Kaiapoi",
+                "geo_longitude": 172.6604811,
+                "geo_latitude": -43.3748505
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6604811,
+                    -43.3748505
+                ]
+            }
+        },
+        {
+            "id": "55 Sneyd Street, Kaiapoi",
+            "properties": {
+                "Address": "55 Sneyd Street, Kaiapoi",
+                "geo_longitude": 172.6426463,
+                "geo_latitude": -43.3810197
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6426463,
+                    -43.3810197
+                ]
+            }
+        },
+        {
+            "id": "47 Blakes Road, Prebbleton",
+            "properties": {
+                "Address": "47 Blakes Road, Prebbleton",
+                "geo_longitude": 172.5097992,
+                "geo_latitude": -43.576088
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5097992,
+                    -43.576088
+                ]
+            }
+        },
+        {
+            "id": "650 Shands Road, Prebbleton",
+            "properties": {
+                "Address": "650 Shands Road, Prebbleton",
+                "geo_longitude": 172.4920323,
+                "geo_latitude": -43.575769
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.4920323,
+                    -43.575769
+                ]
+            }
+        },
+        {
+            "id": "45 Ayers Street, Rangiora",
+            "properties": {
+                "Address": "45 Ayers Street, Rangiora",
+                "geo_longitude": 172.5861389,
+                "geo_latitude": -43.30072149999999
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5861389,
+                    -43.30072149999999
+                ]
+            }
+        },
+        {
+            "id": "40 Geddis Street, Rangiora",
+            "properties": {
+                "Address": "40 Geddis Street, Rangiora",
+                "geo_longitude": 172.5823067,
+                "geo_latitude": -43.3078121
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5823067,
+                    -43.3078121
+                ]
+            }
+        },
+        {
+            "id": "10 Ivory Street, Rangiora",
+            "properties": {
+                "Address": "10 Ivory Street, Rangiora",
+                "geo_longitude": 172.5986522,
+                "geo_latitude": -43.30976039999999
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5986522,
+                    -43.30976039999999
+                ]
+            }
+        },
+        {
+            "id": "8 Janelle Place, Rangiora",
+            "properties": {
+                "Address": "8 Janelle Place, Rangiora",
+                "geo_longitude": 172.5834563,
+                "geo_latitude": -43.3095828
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5834563,
+                    -43.3095828
+                ]
+            }
+        },
+        {
+            "id": "40 Parkhouse Drive, Rangiora",
+            "properties": {
+                "Address": "40 Parkhouse Drive, Rangiora",
+                "geo_longitude": 172.5825854,
+                "geo_latitude": -43.3108164
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5825854,
+                    -43.3108164
+                ]
+            }
+        },
+        {
+            "id": "2 Mcnair Road, Temuka",
+            "properties": {
+                "Address": "2 Mcnair Road, Temuka",
+                "geo_longitude": 171.2811886,
+                "geo_latitude": -44.2376432
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.2811886,
+                    -44.2376432
+                ]
+            }
+        },
+        {
+            "id": "38 Woodend Road, Woodend",
+            "properties": {
+                "Address": "38 Woodend Road, Woodend",
+                "geo_longitude": 172.660623,
+                "geo_latitude": -43.320294
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.660623,
+                    -43.320294
+                ]
+            }
+        },
+        {
+            "id": "7 Woodglen Drive, Woodend",
+            "properties": {
+                "Address": "7 Woodglen Drive, Woodend",
+                "geo_longitude": 172.6667298,
+                "geo_latitude": -43.3162576
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.6667298,
+                    -43.3162576
+                ]
+            }
+        },
+        {
+            "id": "17 Protea Place, Wigram, Christchurch",
+            "properties": {
+                "Address": "17 Protea Place, Wigram, Christchurch",
+                "geo_longitude": 172.5421893,
+                "geo_latitude": -43.5519781
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.5421893,
+                    -43.5519781
+                ]
+            }
+        },
+        {
+            "id": "48 Wycliffe Street, Onekawa, Napier",
+            "properties": {
+                "Address": "48 Wycliffe Street, Onekawa, Napier",
+                "geo_longitude": 176.8938591,
+                "geo_latitude": -39.5124916
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    176.8938591,
+                    -39.5124916
+                ]
+            }
+        },
+        {
+            "id": "11 Endeavour Street, Riversdale, Blenheim",
+            "properties": {
+                "Address": "11 Endeavour Street, Riversdale, Blenheim",
+                "geo_longitude": 173.9642801,
+                "geo_latitude": -41.5024437
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.9642801,
+                    -41.5024437
+                ]
+            }
+        },
+        {
+            "id": "21 Dorset Street, Levin",
+            "properties": {
+                "Address": "21 Dorset Street, Levin",
+                "geo_longitude": 175.2972759,
+                "geo_latitude": -40.62313
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2972759,
+                    -40.62313
+                ]
+            }
+        },
+        {
+            "id": "2 James Street, Waikawa Beach",
+            "properties": {
+                "Address": "2 James Street, Waikawa Beach",
+                "geo_longitude": 175.1469334,
+                "geo_latitude": -40.6930102
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.1469334,
+                    -40.6930102
+                ]
+            }
+        },
+        {
+            "id": "93 Woodlands Road, Woodville",
+            "properties": {
+                "Address": "93 Woodlands Road, Woodville",
+                "geo_longitude": 175.8532861,
+                "geo_latitude": -40.32500830000001
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.8532861,
+                    -40.32500830000001
+                ]
+            }
+        },
+        {
+            "id": "16 Tukuka Street, Nelson South, Nelson",
+            "properties": {
+                "Address": "16 Tukuka Street, Nelson South, Nelson",
+                "geo_longitude": 173.2668747,
+                "geo_latitude": -41.289634
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.2668747,
+                    -41.289634
+                ]
+            }
+        },
+        {
+            "id": "6 Memorial Drive, Parahaki, Whangarei",
+            "properties": {
+                "Address": "6 Memorial Drive, Parahaki, Whangarei",
+                "geo_longitude": 174.34075,
+                "geo_latitude": -35.7274184
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.34075,
+                    -35.7274184
+                ]
+            }
+        },
+        {
+            "id": "27 Farnham Drive, Richmond",
+            "properties": {
+                "Address": "27 Farnham Drive, Richmond",
+                "geo_longitude": 173.1896439,
+                "geo_latitude": -41.345902
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.1896439,
+                    -41.345902
+                ]
+            }
+        },
+        {
+            "id": "Norfolk Drive, Cambridge",
+            "properties": {
+                "Address": "Norfolk Drive, Cambridge",
+                "geo_longitude": 175.468752,
+                "geo_latitude": -37.874630
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.468752,
+                    -37.874630
+                ]
+            }
+        },
+        {
+            "id": "114 Ayrshire Drive, Grandview Heights, Hamilton",
+            "properties": {
+                "Address": "114 Ayrshire Drive, Grandview Heights, Hamilton",
+                "geo_longitude": 175.2212692,
+                "geo_latitude": -37.7816339
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2212692,
+                    -37.7816339
+                ]
+            }
+        },
+        {
+            "id": "4 Stratford Place, Huntington, Hamilton",
+            "properties": {
+                "Address": "4 Stratford Place, Huntington, Hamilton",
+                "geo_longitude": 175.2827148,
+                "geo_latitude": -37.7366056
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2827148,
+                    -37.7366056
+                ]
+            }
+        },
+        {
+            "id": "51 Yvonne Street, Melville, Hamilton",
+            "properties": {
+                "Address": "51 Yvonne Street, Melville, Hamilton",
+                "geo_longitude": 175.2704121,
+                "geo_latitude": -37.81720139999999
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.2704121,
+                    -37.81720139999999
+                ]
+            }
+        },
+        {
+            "id": "133 Baverstock Road, Nawton, Hamilton",
+            "properties": {
+                "Address": "133 Baverstock Road, Nawton, Hamilton",
+                "geo_longitude": 175.225862,
+                "geo_latitude": -37.7738811
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.225862,
+                    -37.7738811
+                ]
+            }
+        },
+        {
+            "id": "2 Back Miranda Road, Thames",
+            "properties": {
+                "Address": "2 Back Miranda Road, Thames",
+                "geo_longitude": 175.3643158,
+                "geo_latitude": -37.2600408
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.3643158,
+                    -37.2600408
+                ]
+            }
+        },
+        {
+            "id": "35 Tongariro Drive, Aotea, Porirua",
+            "properties": {
+                "Address": "35 Tongariro Drive, Aotea, Porirua",
+                "geo_longitude": 174.8687869,
+                "geo_latitude": -41.1284418
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8687869,
+                    -41.1284418
+                ]
+            }
+        },
+        {
+            "id": "80 Joseph Banks Drive, Whitby, Porirua",
+            "properties": {
+                "Address": "80 Joseph Banks Drive, Whitby, Porirua",
+                "geo_longitude": 174.9123601,
+                "geo_latitude": -41.1089358
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.9123601,
+                    -41.1089358
+                ]
+            }
+        },
+        {
+            "id": "30 The Companionway, Whitby, Porirua",
+            "properties": {
+                "Address": "30 The Companionway, Whitby, Porirua",
+                "geo_longitude": 174.8903654,
+                "geo_latitude": -41.1141349
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8903654,
+                    -41.1141349
+                ]
+            }
+        },
+        {
+            "id": "2 Venus Place, Whitby, Porirua",
+            "properties": {
+                "Address": "2 Venus Place, Whitby, Porirua",
+                "geo_longitude": 174.8841658,
+                "geo_latitude": -41.1125488
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8841658,
+                    -41.1125488
+                ]
+            }
+        },
+        {
+            "id": "16 Carlow Grove, Birchville, Upper Hutt",
+            "properties": {
+                "Address": "16 Carlow Grove, Birchville, Upper Hutt",
+                "geo_longitude": 175.1087346,
+                "geo_latitude": -41.0951264
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.1087346,
+                    -41.0951264
+                ]
+            }
+        },
+        {
+            "id": "11 King Charles Drive, Kingsley Heights, Upper Hutt",
+            "properties": {
+                "Address": "11 King Charles Drive, Kingsley Heights, Upper Hutt",
+                "geo_longitude": 175.0810539,
+                "geo_latitude": -41.1233169
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.0810539,
+                    -41.1233169
+                ]
+            }
+        },
+        {
+            "id": "39 Chatsworth Road, Silverstream, Upper Hutt",
+            "properties": {
+                "Address": "39 Chatsworth Road, Silverstream, Upper Hutt",
+                "geo_longitude": 175.0213207,
+                "geo_latitude": -41.14860050000001
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.0213207,
+                    -41.14860050000001
+                ]
+            }
+        },
+        {
+            "id": "80A Pasadena Crescent, Totara Park, Upper Hutt",
+            "properties": {
+                "Address": "80A Pasadena Crescent, Totara Park, Upper Hutt",
+                "geo_longitude": 175.0870955,
+                "geo_latitude": -41.1065809
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.0870955,
+                    -41.1065809
+                ]
+            }
+        },
+        {
+            "id": "31 Tennyson Street, Trentham, Upper Hutt",
+            "properties": {
+                "Address": "31 Tennyson Street, Trentham, Upper Hutt",
+                "geo_longitude": 175.0452773,
+                "geo_latitude": -41.1233728
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.0452773,
+                    -41.1233728
+                ]
+            }
+        },
+        {
+            "id": "103 Amesbury Drive, Churton Park, Wellington",
+            "properties": {
+                "Address": "103 Amesbury Drive, Churton Park, Wellington",
+                "geo_longitude": 174.8032727,
+                "geo_latitude": -41.1953335
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8032727,
+                    -41.1953335
+                ]
+            }
+        },
+        {
+            "id": "88 The Parade, Island Bay, Wellington",
+            "properties": {
+                "Address": "88 The Parade, Island Bay, Wellington",
+                "geo_longitude": 174.7733984,
+                "geo_latitude": -41.3323627
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7733984,
+                    -41.3323627
+                ]
+            }
+        },
+        {
+            "id": "2 Wentworth Street, Mornington, Wellington",
+            "properties": {
+                "Address": "2 Wentworth Street, Mornington, Wellington",
+                "geo_longitude": 174.763581,
+                "geo_latitude": -41.3177987
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.763581,
+                    -41.3177987
+                ]
+            }
+        },
+        {
+            "id": "59 Fyvie Avenue, Tawa, Wellington",
+            "properties": {
+                "Address": "59 Fyvie Avenue, Tawa, Wellington",
+                "geo_longitude": 174.8269859,
+                "geo_latitude": -41.1599409
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8269859,
+                    -41.1599409
+                ]
+            }
+        },
+        {
+            "id": "10 Palmerston Street, Greymouth",
+            "properties": {
+                "Address": "10 Palmerston Street, Greymouth",
+                "geo_longitude": 171.2035337,
+                "geo_latitude": -42.4617845
+            },
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.2035337,
+                    -42.4617845
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection"
+}

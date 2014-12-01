@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "35 Tongariro Drive, Aotea, Porirua",
+      "properties": {
+        "Address": "35 Tongariro Drive, Aotea, Porirua",
+        "geo_longitude": 174.8687869,
+        "geo_latitude": -41.1284418
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8687869,
+          -41.1284418
+        ]
+      }
+    },
+    {
+      "id": "80 Joseph Banks Drive, Whitby, Porirua",
+      "properties": {
+        "Address": "80 Joseph Banks Drive, Whitby, Porirua",
+        "geo_longitude": 174.9123601,
+        "geo_latitude": -41.1089358
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9123601,
+          -41.1089358
+        ]
+      }
+    },
+    {
+      "id": "30 The Companionway, Whitby, Porirua",
+      "properties": {
+        "Address": "30 The Companionway, Whitby, Porirua",
+        "geo_longitude": 174.8903654,
+        "geo_latitude": -41.1141349
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8903654,
+          -41.1141349
+        ]
+      }
+    },
+    {
+      "id": "2 Venus Place, Whitby, Porirua",
+      "properties": {
+        "Address": "2 Venus Place, Whitby, Porirua",
+        "geo_longitude": 174.8841658,
+        "geo_latitude": -41.1125488
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8841658,
+          -41.1125488
+        ]
+      }
+    },
+    {
+      "id": "16 Carlow Grove, Birchville, Upper Hutt",
+      "properties": {
+        "Address": "16 Carlow Grove, Birchville, Upper Hutt",
+        "geo_longitude": 175.1087346,
+        "geo_latitude": -41.0951264
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.1087346,
+          -41.0951264
+        ]
+      }
+    },
+    {
+      "id": "11 King Charles Drive, Kingsley Heights, Upper Hutt",
+      "properties": {
+        "Address": "11 King Charles Drive, Kingsley Heights, Upper Hutt",
+        "geo_longitude": 175.0810539,
+        "geo_latitude": -41.1233169
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0810539,
+          -41.1233169
+        ]
+      }
+    },
+    {
+      "id": "39 Chatsworth Road, Silverstream, Upper Hutt",
+      "properties": {
+        "Address": "39 Chatsworth Road, Silverstream, Upper Hutt",
+        "geo_longitude": 175.0213207,
+        "geo_latitude": -41.14860050000001
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0213207,
+          -41.14860050000001
+        ]
+      }
+    },
+    {
+      "id": "80A Pasadena Crescent, Totara Park, Upper Hutt",
+      "properties": {
+        "Address": "80A Pasadena Crescent, Totara Park, Upper Hutt",
+        "geo_longitude": 175.0870955,
+        "geo_latitude": -41.1065809
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0870955,
+          -41.1065809
+        ]
+      }
+    },
+    {
+      "id": "31 Tennyson Street, Trentham, Upper Hutt",
+      "properties": {
+        "Address": "31 Tennyson Street, Trentham, Upper Hutt",
+        "geo_longitude": 175.0452773,
+        "geo_latitude": -41.1233728
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.0452773,
+          -41.1233728
+        ]
+      }
+    },
+    {
+      "id": "103 Amesbury Drive, Churton Park, Wellington",
+      "properties": {
+        "Address": "103 Amesbury Drive, Churton Park, Wellington",
+        "geo_longitude": 174.8032727,
+        "geo_latitude": -41.1953335
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8032727,
+          -41.1953335
+        ]
+      }
+    },
+    {
+      "id": "88 The Parade, Island Bay, Wellington",
+      "properties": {
+        "Address": "88 The Parade, Island Bay, Wellington",
+        "geo_longitude": 174.7733984,
+        "geo_latitude": -41.3323627
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7733984,
+          -41.3323627
+        ]
+      }
+    },
+    {
+      "id": "2 Wentworth Street, Mornington, Wellington",
+      "properties": {
+        "Address": "2 Wentworth Street, Mornington, Wellington",
+        "geo_longitude": 174.763581,
+        "geo_latitude": -41.3177987
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.763581,
+          -41.3177987
+        ]
+      }
+    },
+    {
+      "id": "59 Fyvie Avenue, Tawa, Wellington",
+      "properties": {
+        "Address": "59 Fyvie Avenue, Tawa, Wellington",
+        "geo_longitude": 174.8269859,
+        "geo_latitude": -41.1599409
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8269859,
+          -41.1599409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "41 Joesph Banks Drive, Whitby, Porirua",
+        "ImageURL": "http://leighghunt.github.io/xmas-map/assets/photos/41-joseph-banks-drive-whitby.jpg",
+        "ThumbnailURL": "http://leighghunt.github.io/xmas-map/assets/photos/41-joseph-banks-drive-whitby.thumb.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9071776,
+          -41.1077275
+        ]
+      }
+    }
+  ]
+}

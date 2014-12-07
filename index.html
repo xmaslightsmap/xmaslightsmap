@@ -108,7 +108,8 @@
 				layer.bindPopup(popupContent);
 			}
 
-			var locateControl = L.control.locate({follow: true, locateOptions: {maxZoom: 15} }).addTo(map);
+			var locateControl = L.control.locate({follow: true, locateOptions:
+      {maxZoom: 18, enableHighAccuracy: true} }).addTo(map);
 			map.on('startfollowing', function() {
 			    map.on('dragstart', locateControl._stopFollowing, locateControl);
 			}).on('stopfollowing', function() {

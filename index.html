@@ -150,16 +150,17 @@
 						layer.bindPopup(popupContent);
 					},
 					pointToLayer: function (feature, latlng, layer) {
-						if(!feature.properties.Verified)
-						{
-						  return null;
-						} else
-						{
-								  return L.marker(latlng,
-								  {
-										icon: christmasTreeIcon,
-										title: feature.properties.address
-								  });
+						if(!feature.properties.Verified) {
+						  	return L.marker(latlng, {
+								title: feature.properties.address,
+								clickable: false,
+								opacity: 0.5
+						  	});
+						} else {
+						  	return L.marker(latlng, {
+								icon: christmasTreeIcon,
+								title: feature.properties.address
+						  	});
 						}
 					}
 				}).addTo(map);

@@ -260,15 +260,15 @@
       "id": "Baptist Church, Whitby",
       "properties": {
         "Address": "Baptist Church, Whitby",
-        "geo_longitude": -78.93490220000001,
-        "geo_latitude": 43.8780808
+        "geo_longitude": 174.8929016,
+        "geo_latitude": -41.1187591
       },
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.93490220000001,
-          43.8780808
+          174.8929016,
+          -41.1187591
         ]
       }
     },

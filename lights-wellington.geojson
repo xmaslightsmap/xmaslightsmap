@@ -23,7 +23,7 @@
         "Address": "80 Joseph Banks Drive, Whitby, Porirua",
         "geo_longitude": 174.9123601,
         "geo_latitude": -41.1089358,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -56,7 +56,7 @@
         "Address": "2 Venus Place, Whitby, Porirua",
         "geo_longitude": 174.8841658,
         "geo_latitude": -41.1125488,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -201,7 +201,7 @@
         "Address": "59 Fyvie Avenue, Tawa, Wellington",
         "geo_longitude": 174.8269859,
         "geo_latitude": -41.1599409,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -218,7 +218,7 @@
         "Address": "41 Joseph Banks Drive, Whitby, Porirua",
         "ImageURL": "http://xmaslightsmap.github.io/xmaslightsmap/assets/photos/41-joseph-banks-drive-whitby.jpg",
         "ThumbnailURL": "http://xmaslightsmap.github.io/xmaslightsmap/assets/photos/41-joseph-banks-drive-whitby.thumb.jpg",
-        "verified": true
+        "Verified": true
       },
       "geometry": {
         "type": "Point",
@@ -234,7 +234,7 @@
         "Address": "91 Joesph Banks Drive, Whitby, Porirua",
         "geo_longitude": 174.9142074,
         "geo_latitude": -41.1073363,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -251,7 +251,7 @@
         "Address": "17 The Yardarm, Whitby, Porirua",
         "geo_longitude": 174.8958492,
         "geo_latitude": -41.1126975,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -268,7 +268,7 @@
         "Address": "Baptist Church, Whitby",
         "geo_longitude": 174.8929016,
         "geo_latitude": -41.1187591,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -285,7 +285,7 @@
         "Address": "34 Woodman Drive, Tawa",
         "geo_longitude": 174.8386497,
         "geo_latitude": -41.165822,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -302,7 +302,7 @@
         "Address": "46 Woodman Drive, Tawa",
         "geo_longitude": 174.8378337,
         "geo_latitude": -41.1666511,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -319,7 +319,7 @@
         "Address": "50 Woodman Drive, Tawa",
         "geo_longitude": 174.8372768,
         "geo_latitude": -41.1663416,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -336,7 +336,7 @@
         "Address": "95 Woodman Drive, Tawa",
         "geo_longitude": 174.8350208,
         "geo_latitude": -41.16831,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {

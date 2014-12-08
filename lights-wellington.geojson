@@ -213,6 +213,7 @@
       "type": "Feature",
       "properties": {
         "Address": "41 Joseph Banks Drive, Whitby, Porirua",
+		"Verified": true,
         "ImageURL": "http://leighghunt.github.io/xmas-map/assets/photos/41-joseph-banks-drive-whitby.jpg",
         "ThumbnailURL": "http://leighghunt.github.io/xmas-map/assets/photos/41-joseph-banks-drive-whitby.thumb.jpg"
       },

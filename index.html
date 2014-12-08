@@ -121,7 +121,11 @@
 	        $.getJSON(geojsonURL, function(data){
 
 				L.geoJson(data, {
-					onEachFeature: function (feature, layer) {
+          onEachFeature: function (feature, layer) {
+            if(!feature.properties.Verified)
+            {
+              return;
+            }
 
 						var popupContent = '<a href="https://maps.google.com/maps?'
 							+ 'daddr='+ feature.geometry.coordinates[1] + ',' + feature.geometry.coordinates[0]
@@ -138,21 +142,19 @@
 						}
 
 						layer.bindPopup(popupContent);
-				        /*
-				        layer.bindPopup('<a href="geo:' +
-				        	feature.geometry.coordinates[1] + ',' +
-				        	feature.geometry.coordinates[0] +
-				        	'?daddr=('+ feature.geometry.coordinates[1] + ',' +
-				        	feature.geometry.coordinates[0] + ')">' +
-				        	feature.properties.Address + '</a>');
-						*/
-					},
+				},
 				    pointToLayer: function (feature, latlng, layer) {
-				        return L.marker(latlng,
-				        	{
-				        		icon: christmasTreeIcon,
-				         		title: feature.properties.address
-				         	});
+                if(!feature.properties.Verified)
+                {
+                  return null;
+                } else
+                {
+				          return L.marker(latlng,
+				          {
+				          		icon: christmasTreeIcon,
+				           		title: feature.properties.address
+				          });
+                }
 				    }
 				}).addTo(map);
 

@@ -223,6 +223,134 @@
           -41.1077275
         ]
       }
+    },
+    {
+      "id": "91 Joesph Banks Drive, Whitby, Porirua",
+      "properties": {
+        "Address": "91 Joesph Banks Drive, Whitby, Porirua",
+        "geo_longitude": 174.9142074,
+        "geo_latitude": -41.1073363
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9142074,
+          -41.1073363
+        ]
+      }
+    },
+    {
+      "id": "17 The Yardarm, Whitby, Porirua",
+      "properties": {
+        "Address": "17 The Yardarm, Whitby, Porirua",
+        "geo_longitude": 174.8958492,
+        "geo_latitude": -41.1126975
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8958492,
+          -41.1126975
+        ]
+      }
+    },
+    {
+      "id": "Baptist Church, Whitby",
+      "properties": {
+        "Address": "Baptist Church, Whitby",
+        "geo_longitude": -78.93490220000001,
+        "geo_latitude": 43.8780808
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.93490220000001,
+          43.8780808
+        ]
+      }
+    },
+    {
+      "id": "59 Fyfie Avenue, Linden",
+      "properties": {
+        "Address": "59 Fyfie Avenue, Linden",
+        "geo_longitude": 174.8269859,
+        "geo_latitude": -41.1599409
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8269859,
+          -41.1599409
+        ]
+      }
+    },
+    {
+      "id": "34 Woodman Drive, Tawa",
+      "properties": {
+        "Address": "34 Woodman Drive, Tawa",
+        "geo_longitude": 174.8386497,
+        "geo_latitude": -41.165822
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8386497,
+          -41.165822
+        ]
+      }
+    },
+    {
+      "id": "46 Woodman Drive, Tawa",
+      "properties": {
+        "Address": "46 Woodman Drive, Tawa",
+        "geo_longitude": 174.8378337,
+        "geo_latitude": -41.1666511
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8378337,
+          -41.1666511
+        ]
+      }
+    },
+    {
+      "id": "50 Woodman Drive, Tawa",
+      "properties": {
+        "Address": "50 Woodman Drive, Tawa",
+        "geo_longitude": 174.8372768,
+        "geo_latitude": -41.1663416
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8372768,
+          -41.1663416
+        ]
+      }
+    },
+    {
+      "id": "95 Woodman Drive, Tawa",
+      "properties": {
+        "Address": "95 Woodman Drive, Tawa",
+        "geo_longitude": 174.8350208,
+        "geo_latitude": -41.16831
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8350208,
+          -41.16831
+        ]
+      }
     }
   ]
 }

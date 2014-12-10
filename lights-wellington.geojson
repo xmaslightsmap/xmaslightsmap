@@ -23,7 +23,8 @@
         "Address": "80 Joseph Banks Drive, Whitby, Porirua",
         "geo_longitude": 174.9123601,
         "geo_latitude": -41.1089358,
-        "Verified": true
+        "Verified": true,
+		"MoreInfo": "Collecting for Birthright charity"
       },
       "type": "Feature",
       "geometry": {

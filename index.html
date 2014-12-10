@@ -136,6 +136,12 @@
 						var popupContent = '<a href="https://maps.google.com/maps?'
 							+ 'daddr='+ feature.geometry.coordinates[1] + ',' + feature.geometry.coordinates[0]
 							+ '">' + feature.properties.Address + '</a>';
+						if(feature.properties.MoreInfo)
+						{
+							popupContent += '<br>' +
+feature.properties.MoreInfo;
+						}
+
 						if(feature.properties.ImageURL)
 						{
 							var ImageURL = feature.properties.ImageURL;

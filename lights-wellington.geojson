@@ -385,6 +385,24 @@
           -41.1295007
         ]
       }
+    },
+    {
+      "id": "103 Gloaming Hill, Titahi Bay",
+      "properties": {
+        "Address": "103 Gloaming Hill",
+        "geo_accuracy": "ROOFTOP",
+        "Verified": 1,
+        "geo_longitude": 174.8485988,
+        "geo_latitude": -41.107291
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8485988,
+          -41.107291
+        ]
+      }
     }
   ]
 }

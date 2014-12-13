@@ -269,7 +269,8 @@
         "Address": "Baptist Church, Whitby",
         "geo_longitude": 174.8929016,
         "geo_latitude": -41.1187591,
-        "Verified": true
+        "Verified": true,
+        "MoreInfo": "TBA"
       },
       "type": "Feature",
       "geometry": {
@@ -286,7 +287,8 @@
         "Address": "34 Woodman Drive, Tawa",
         "geo_longitude": 174.8386497,
         "geo_latitude": -41.165822,
-        "Verified": true
+        "Verified": true,
+        "MoreInfo": "From 12 Dec"
       },
       "type": "Feature",
       "geometry": {
@@ -363,6 +365,24 @@
         "coordinates": [
           174.9073915,
           -41.1103451
+        ]
+      }
+    },
+    {
+      "id": "5 Muturangi Grove, Elsdon",
+      "properties": {
+        "Address": "5 Muturangi Grove, Elsdon",
+        "geo_accuracy": "ROOFTOP",
+        "Verified": 1,
+        "geo_longitude": 174.8298286,
+        "geo_latitude": -41.1295007
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8298286,
+          -41.1295007
         ]
       }
     }

@@ -403,6 +403,24 @@
           -41.107291
         ]
       }
+    },
+    {
+      "id": "96 Navigation Drive, Whitby",
+      "properties": {
+        "Address": "96 Navigation Drive, Whitby",
+        "geo_accuracy": "ROOFTOP",
+        "Verified": 1,
+        "geo_longitude": 174.9048449,
+        "geo_latitude": -41.1159015
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9048449,
+          -41.1159015
+        ]
+      }
     }
   ]
 }

@@ -33,6 +33,21 @@
       }
     },
     {
+      "id": "6 Discovery Drive, Whitby, Porirua",
+      "properties": {
+        "Address": "6 Discovery Drive, Whitby, Porirua",
+        "Verified": "true"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8887503147125,
+          -41.11165236847651
+        ]
+      }
+    },
+    {
       "id": "80 Joseph Banks Drive, Whitby, Porirua",
       "properties": {
         "Address": "80 Joseph Banks Drive, Whitby, Porirua",
@@ -55,7 +70,7 @@
         "Address": "30 The Companionway, Whitby, Porirua",
         "geo_longitude": 174.8903654,
         "geo_latitude": -41.1141349,
-        "Verified": "true"
+        "Verified": "false"
       },
       "type": "Feature",
       "geometry": {

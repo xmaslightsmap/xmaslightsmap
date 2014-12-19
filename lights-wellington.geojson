@@ -23,8 +23,7 @@
         "Address": "80 Joseph Banks Drive, Whitby, Porirua",
         "geo_longitude": 174.9123601,
         "geo_latitude": -41.1089358,
-        "Verified": true,
-        "MoreInfo": "Collecting for Birthright charity"
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -219,7 +218,8 @@
         "Address": "41 Joseph Banks Drive, Whitby, Porirua",
         "ImageURL": "http://xmaslightsmap.github.io/xmaslightsmap/assets/photos/41-joseph-banks-drive-whitby.jpg",
         "ThumbnailURL": "http://xmaslightsmap.github.io/xmaslightsmap/assets/photos/41-joseph-banks-drive-whitby.thumb.jpg",
-        "Verified": true
+        "Verified": true,
+        "MoreInfo": "Birthright present drop"
       },
       "geometry": {
         "type": "Point",

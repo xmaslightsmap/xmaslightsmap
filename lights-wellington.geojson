@@ -69,8 +69,7 @@
       "properties": {
         "Address": "30 The Companionway, Whitby, Porirua",
         "geo_longitude": 174.8903654,
-        "geo_latitude": -41.1141349,
-        "Verified": "false"
+        "geo_latitude": -41.1141349
       },
       "type": "Feature",
       "geometry": {

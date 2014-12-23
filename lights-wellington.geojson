@@ -312,6 +312,23 @@
       }
     },
     {
+      "id": "Cannon Lane, Whitby",
+      "properties": {
+        "Address": "Cannon Lane, Whitby",
+        "geo_longitude": 174.8929016,
+        "geo_latitude": -41.1187591,
+        "Verified": "true"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.89035964012143,
+          -41.113103326973665
+        ]
+      }
+    },
+    {
       "id": "34 Woodman Drive, Tawa",
       "properties": {
         "Address": "34 Woodman Drive, Tawa",

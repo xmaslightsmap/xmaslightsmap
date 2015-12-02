@@ -605,6 +605,23 @@
           -41.115653541210854
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "109 Leeward Drive",
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.88414227962494,
+          -41.11270320513078
+        ]
+      }
     }
   ]
 }

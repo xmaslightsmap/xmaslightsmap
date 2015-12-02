@@ -9,7 +9,7 @@
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="bower_components/leaflet.locatecontrol/dist/L.Control.Locate.min.css" />
 		<!--[if lt IE 9]>
-		    <link rel="stylesheet" href="bower_components/leaflet.locatecontrol/dist/L.Control.Locate.ie.min.css"/>
+			<link rel="stylesheet" href="bower_components/leaflet.locatecontrol/dist/L.Control.Locate.ie.min.css"/>
 		<![endif]-->
 
 		<script src="bower_components/leaflet.locatecontrol/dist/L.Control.Locate.min.js" ></script>
@@ -23,38 +23,42 @@
 				height: 100%
 			}
 		</style>
-	    <script>
-	      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	        ga('create', 'UA-57248435-1', 'auto');
-	        ga('send', 'pageview');
-	    </script>
+			ga('create', 'UA-57248435-1', 'auto');
+			ga('send', 'pageview');
+		</script>
 	</head>
 	<body>
-	    <div id="map"></div>
+		<div id="map"></div>
 		<script>
-		    var map = L.map('map').setView([-41, 176], 5);
-		    var ourPosition = null;
-		    var geojsonURL = "lights-wellington.geojson";
+			var map = L.map('map').setView([-41, 176], 5);
+			var ourPosition = null;
+			var geojsonURL = "lights-wellington.geojson";
 
 			var vars = [], hash;
-			    var q = document.URL.split('?')[1];
-			    if(q != undefined){
-			        q = q.split('&');
-			        for(var i = 0; i < q.length; i++){
-			            hash = q[i].split('=');
-			            vars.push(hash[1]);
-			            vars[hash[0]] = hash[1];
-			        }
+			var q = document.URL.split('?')[1];
+			if(q != undefined){
+				q = q.split('&');
+				for(var i = 0; i < q.length; i++){
+					hash = q[i].split('=');
+					vars.push(hash[1]);
+					vars[hash[0]] = hash[1];
+				}
 			}
 			if(vars['InitialExtent'])
 			{
 				switch(vars['InitialExtent'].toLowerCase())
 				{
 					case('whitby'):
+						map.setView([-41.116944, 174.893056], 12);
+						geojsonURL = "lights-wellington.geojson";
+						break;
+					case('porirua'):
 						map.setView([-41.116944, 174.893056], 12);
 						geojsonURL = "lights-wellington.geojson";
 						break;
@@ -79,22 +83,22 @@
 			}
 
 			var christmasTreeIcon = L.icon({
-			    iconUrl: 'assets/christmas-tree-48x48.png',
-			    shadowUrl: 'assets/christmas-tree-48x48-shadow.png',
+				iconUrl: 'assets/christmas-tree-48x48.png',
+				shadowUrl: 'assets/christmas-tree-48x48-shadow.png',
 
-			    iconSize:     [48, 48], // size of the icon
-			    shadowSize:   [96, 55], // size of the shadow
-			    iconAnchor:   [24, 45], // point of the icon which will correspond to marker's location
-			    shadowAnchor: [38, 47],  // the same for the shadow
-			    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+				iconSize:     [48, 48], // size of the icon
+				shadowSize:   [96, 55], // size of the shadow
+				iconAnchor:   [24, 45], // point of the icon which will correspond to marker's location
+				shadowAnchor: [38, 47],  // the same for the shadow
+				popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
 			});
 
 			L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
 				maxZoom: 18,
 				attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
 					'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-					'Imagery © <a href="http://mapbox.com">Mapbox</a>, ' +
-					'Development <a href="https://github.com/xmaslightsmap/xmaslightsmap">xmaslightsmap</a>, ' +
+					'Tiles © <a href="http://mapbox.com">Mapbox</a>, ' +
+					'Development <a href="https://github.com/xmaslightsmap/xmaslightsmap">Venari Ltd</a>, ' +
 					'Address Data <a href="http://www.professionals.co.nz/">Professionals</a>.',
 				id: 'leighghunt.map-pnofpde7'
 			}).addTo(map);
@@ -110,22 +114,38 @@
 				layer.bindPopup(popupContent);
 			}
 
-			var locateControl = L.control.locate({follow: true, locateOptions:
-      {maxZoom: 18, enableHighAccuracy: true} }).addTo(map);
+			var locateControl = L.control.locate({
+				follow: true,
+				locateOptions: {
+					maxZoom: 18, 
+					enableHighAccuracy: true
+				}
+			}).addTo(map);
+
 			map.on('startfollowing', function() {
-			    map.on('dragstart', locateControl._stopFollowing, locateControl);
+				map.on('dragstart', locateControl._stopFollowing, locateControl);
 			}).on('stopfollowing', function() {
-			    map.off('dragstart', locateControl._stopFollowing, locateControl);
+				map.off('dragstart', locateControl._stopFollowing, locateControl);
 			});
 
-	        $.getJSON(geojsonURL, function(data){
+			$.getJSON(geojsonURL, function(data){
 
 				L.geoJson(data, {
 					onEachFeature: function (feature, layer) {
+						if(!feature.properties.Verified)
+						{
+						  return;
+						}
 
 						var popupContent = '<a href="https://maps.google.com/maps?'
 							+ 'daddr='+ feature.geometry.coordinates[1] + ',' + feature.geometry.coordinates[0]
 							+ '">' + feature.properties.Address + '</a>';
+						if(feature.properties.MoreInfo)
+						{
+							popupContent += '<br>' +
+feature.properties.MoreInfo;
+						}
+
 						if(feature.properties.ImageURL)
 						{
 							var ImageURL = feature.properties.ImageURL;
@@ -138,27 +158,23 @@
 						}
 
 						layer.bindPopup(popupContent);
-				        /*
-				        layer.bindPopup('<a href="geo:' +
-				        	feature.geometry.coordinates[1] + ',' +
-				        	feature.geometry.coordinates[0] +
-				        	'?daddr=('+ feature.geometry.coordinates[1] + ',' +
-				        	feature.geometry.coordinates[0] + ')">' +
-				        	feature.properties.Address + '</a>');
-						*/
 					},
-				    pointToLayer: function (feature, latlng, layer) {
-				        return L.marker(latlng,
-				        	{
-				        		icon: christmasTreeIcon,
-				         		title: feature.properties.address
-				         	});
-				    }
+					pointToLayer: function (feature, latlng, layer) {
+						if(!feature.properties.Verified) {
+						  	return L.marker(latlng, {
+								title: feature.properties.address,
+								clickable: false,
+								opacity: 0.0
+						  	});
+						} else {
+						  	return L.marker(latlng, {
+								icon: christmasTreeIcon,
+								title: feature.properties.address
+						  	});
+						}
+					}
 				}).addTo(map);
-
-			    //geojson.addTo(map);
-	          }
-			);
-	    </script>
+			});
+		</script>
 	</body>
 </html>

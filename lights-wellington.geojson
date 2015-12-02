@@ -18,12 +18,42 @@
       }
     },
     {
+      "id": "Voyager Way, Whitby, Porirua",
+      "properties": {
+        "Address": "Voyager Way, Whitby, Porirua",
+        "Verified": true
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.91056740283966,
+          -41.10842700324813
+        ]
+      }
+    },
+    {
+      "id": "6 Discovery Drive, Whitby, Porirua",
+      "properties": {
+        "Address": "6 Discovery Drive, Whitby, Porirua",
+        "Verified": "true"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8887503147125,
+          -41.11165236847651
+        ]
+      }
+    },
+    {
       "id": "80 Joseph Banks Drive, Whitby, Porirua",
       "properties": {
         "Address": "80 Joseph Banks Drive, Whitby, Porirua",
         "geo_longitude": 174.9123601,
         "geo_latitude": -41.1089358,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -56,7 +86,7 @@
         "Address": "2 Venus Place, Whitby, Porirua",
         "geo_longitude": 174.8841658,
         "geo_latitude": -41.1125488,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -201,7 +231,7 @@
         "Address": "59 Fyvie Avenue, Tawa, Wellington",
         "geo_longitude": 174.8269859,
         "geo_latitude": -41.1599409,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -218,13 +248,14 @@
         "Address": "41 Joseph Banks Drive, Whitby, Porirua",
         "ImageURL": "http://xmaslightsmap.github.io/xmaslightsmap/assets/photos/41-joseph-banks-drive-whitby.jpg",
         "ThumbnailURL": "http://xmaslightsmap.github.io/xmaslightsmap/assets/photos/41-joseph-banks-drive-whitby.thumb.jpg",
-        "verified": true
+        "Verified": true,
+        "MoreInfo": "Birthright present drop"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.9071776,
-          -41.1077275
+          174.90720391273499,
+          -41.10792580445309
         ]
       }
     },
@@ -234,7 +265,7 @@
         "Address": "91 Joesph Banks Drive, Whitby, Porirua",
         "geo_longitude": 174.9142074,
         "geo_latitude": -41.1073363,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -251,7 +282,7 @@
         "Address": "17 The Yardarm, Whitby, Porirua",
         "geo_longitude": 174.8958492,
         "geo_latitude": -41.1126975,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -268,7 +299,8 @@
         "Address": "Baptist Church, Whitby",
         "geo_longitude": 174.8929016,
         "geo_latitude": -41.1187591,
-        "verified": true
+        "Verified": true,
+        "MoreInfo": "TBA"
       },
       "type": "Feature",
       "geometry": {
@@ -280,12 +312,30 @@
       }
     },
     {
+      "id": "Cannon Lane, Whitby",
+      "properties": {
+        "Address": "Cannon Lane, Whitby",
+        "geo_longitude": 174.8929016,
+        "geo_latitude": -41.1187591,
+        "Verified": "true"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.89035964012143,
+          -41.113103326973665
+        ]
+      }
+    },
+    {
       "id": "34 Woodman Drive, Tawa",
       "properties": {
         "Address": "34 Woodman Drive, Tawa",
         "geo_longitude": 174.8386497,
         "geo_latitude": -41.165822,
-        "verified": true
+        "Verified": true,
+        "MoreInfo": "From 12 Dec"
       },
       "type": "Feature",
       "geometry": {
@@ -302,7 +352,7 @@
         "Address": "46 Woodman Drive, Tawa",
         "geo_longitude": 174.8378337,
         "geo_latitude": -41.1666511,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -319,7 +369,7 @@
         "Address": "50 Woodman Drive, Tawa",
         "geo_longitude": 174.8372768,
         "geo_latitude": -41.1663416,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -336,7 +386,7 @@
         "Address": "95 Woodman Drive, Tawa",
         "geo_longitude": 174.8350208,
         "geo_latitude": -41.16831,
-        "verified": true
+        "Verified": true
       },
       "type": "Feature",
       "geometry": {
@@ -344,6 +394,139 @@
         "coordinates": [
           174.8350208,
           -41.16831
+        ]
+      }
+    },
+    {
+      "id": "19 Samuel Drive, Whitby",
+      "properties": {
+        "Verified": 1,
+        "Address": "19 Samuel Drive, Whitby",
+        "geo_accuracy": "ROOFTOP",
+        "geo_longitude": 174.9073915,
+        "geo_latitude": -41.1103451
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9073915,
+          -41.1103451
+        ]
+      }
+    },
+    {
+      "id": "5 Muturangi Grove, Elsdon",
+      "properties": {
+        "Address": "5 Muturangi Grove, Elsdon",
+        "geo_accuracy": "ROOFTOP",
+        "Verified": 1,
+        "geo_longitude": 174.8298286,
+        "geo_latitude": -41.1295007
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8298286,
+          -41.1295007
+        ]
+      }
+    },
+    {
+      "id": "103 Gloaming Hill, Titahi Bay",
+      "properties": {
+        "Address": "103 Gloaming Hill",
+        "geo_accuracy": "ROOFTOP",
+        "Verified": 1,
+        "geo_longitude": 174.8485988,
+        "geo_latitude": -41.107291
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8485988,
+          -41.107291
+        ]
+      }
+    },
+    {
+      "id": "96 Navigation Drive, Whitby",
+      "properties": {
+        "Address": "96 Navigation Drive, Whitby",
+        "geo_accuracy": "ROOFTOP",
+        "Verified": 1,
+        "geo_longitude": 174.9048449,
+        "geo_latitude": -41.1159015
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9048449,
+          -41.1159015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.9096715450287,
+              -41.10836637456504
+            ],
+            [
+              174.9102884531021,
+              -41.108404772737494
+            ],
+            [
+              174.91038769483566,
+              -41.108319892536755
+            ],
+            [
+              174.91051644086838,
+              -41.108271389515636
+            ],
+            [
+              174.91060227155685,
+              -41.10826734759559
+            ],
+            [
+              174.91071224212646,
+              -41.10826734759559
+            ],
+            [
+              174.91074711084366,
+              -41.108305745825966
+            ],
+            [
+              174.91074711084366,
+              -41.10838254221934
+            ],
+            [
+              174.91072565317154,
+              -41.108499757593954
+            ],
+            [
+              174.91066932678223,
+              -41.10852805092888
+            ],
+            [
+              174.90966349840164,
+              -41.10845731756869
+            ],
+            [
+              174.9096715450287,
+              -41.10836637456504
+            ]
+          ]
         ]
       }
     }

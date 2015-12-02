@@ -36,8 +36,11 @@
     {
       "id": "6 Discovery Drive, Whitby, Porirua",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "6 Discovery Drive, Whitby, Porirua",
-        "Verified": ""
+        "Verified": "true"
       },
       "type": "Feature",
       "geometry": {
@@ -315,17 +318,20 @@
     {
       "id": "Cannon Lane, Whitby",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "Cannon Lane, Whitby",
         "geo_longitude": 174.8929016,
         "geo_latitude": -41.1187591,
-        "Verified": ""
+        "Verified": "true"
       },
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.89035964012143,
-          -41.113103326973665
+          174.89026308059692,
+          -41.11291337044321
         ]
       }
     },
@@ -530,6 +536,73 @@
               -41.10836637456504
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "72 Mercury Way",
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8845338821411,
+          -41.111070359399655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "4 Cedar Court",
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8898446559906,
+          -41.11383485656316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "6 Observatory Close",
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.90132451057434,
+          -41.10934855233851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "86 Navigation Drive",
+        "geo_longitude": "",
+        "geo_latitude": "",
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.90501523017883,
+          -41.115653541210854
         ]
       }
     }

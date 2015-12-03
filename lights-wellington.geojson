@@ -407,8 +407,11 @@
     {
       "id": "19 Samuel Drive, Whitby",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Verified": "true",
-        "Address": "19 Samuel Drive, Whitby",
+        "Address": "19 Samwell Drive, Whitby",
         "geo_accuracy": "ROOFTOP",
         "geo_longitude": 174.9073915,
         "geo_latitude": -41.1103451

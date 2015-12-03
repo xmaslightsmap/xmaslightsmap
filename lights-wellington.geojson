@@ -407,7 +407,7 @@
     {
       "id": "19 Samuel Drive, Whitby",
       "properties": {
-        "Verified": "",
+        "Verified": "true",
         "Address": "19 Samuel Drive, Whitby",
         "geo_accuracy": "ROOFTOP",
         "geo_longitude": 174.9073915,

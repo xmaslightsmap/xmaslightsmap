@@ -629,6 +629,23 @@
           -41.11270320513078
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "9 Samwell Drive",
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.90736484527588,
+          -41.10959914678414
+        ]
+      }
     }
   ]
 }

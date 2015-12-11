@@ -54,7 +54,10 @@
     {
       "id": "80 Joseph Banks Drive, Whitby, Porirua",
       "properties": {
-        "Address": "80 Joseph Banks Drive, Whitby, Porirua",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "80 Joseph Banks Drive (Retiring this year!)",
         "geo_longitude": 174.9123601,
         "geo_latitude": -41.1089358,
         "Verified": "true"

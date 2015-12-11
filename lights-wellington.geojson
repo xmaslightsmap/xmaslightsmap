@@ -266,10 +266,13 @@
     {
       "id": "91 Joesph Banks Drive, Whitby, Porirua",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "91 Joesph Banks Drive, Whitby, Porirua",
         "geo_longitude": 174.9142074,
         "geo_latitude": -41.1073363,
-        "Verified": ""
+        "Verified": "true"
       },
       "type": "Feature",
       "geometry": {

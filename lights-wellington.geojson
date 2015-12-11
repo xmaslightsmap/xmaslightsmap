@@ -649,6 +649,23 @@
           -41.10959914678414
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "455 Warspite Avenue",
+        "Verified": "true"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8698890209198,
+          -41.12108504605216
+        ]
+      }
     }
   ]
 }

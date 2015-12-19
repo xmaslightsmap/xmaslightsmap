@@ -309,7 +309,7 @@
         "Address": "Baptist Church, Whitby",
         "geo_longitude": 174.8929016,
         "geo_latitude": -41.1187591,
-        "Verified": "",
+        "Verified": "true",
         "MoreInfo": "TBA"
       },
       "type": "Feature",
